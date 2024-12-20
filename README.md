@@ -1,2 +1,2 @@
-# Currency-converter
+# python mini - projects 
 By  ~SurajRaturi
