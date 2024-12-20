@@ -1,2 +1,2 @@
-# python mini - projects
+#Projects
 By  ~SurajRaturi
