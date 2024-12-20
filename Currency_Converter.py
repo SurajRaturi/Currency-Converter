@@ -21,27 +21,27 @@ def condition():
         a=input("Enter the currency standard form which you want to convert : - ")
         b=input("Enter the currency standard  form in which you to convert : -  ")
         c=int(input("Enter the amount you want to do conversion : -  "  ))
-        if a=="INR" and b=="USD":
+        if a=="INR" and b=="USD":#INR to USD
             print("1 INR = 0.012 USD")
             print("\n \n")
             print(f"The amount converted is equal to :-  {c*0.012} ")   
-        elif a=="USD" and b=="INR":
+        elif a=="USD" and b=="INR":#USD to INR
             print("1 USD = 85.03 INR")
             print("\n \n ")
             print(f"The amount converted is equal  to :-  {c*85.03}")
-        elif a=="INR" and b=="EURO":
+        elif a=="INR" and b=="EURO":#INR to EURO
             print("1 INR = 0.011 EURO")
             print("\n \n")
             print(f"The amount which is converted is equal to  : -  {c*0.011}")
-        elif a=="EURO" and b=="INR":
+        elif a=="EURO" and b=="INR":#EURO to INr
             print("1 EURO = 88.37 INR")
             print("\n \n")
             print(f"The amount which is converted is equal to : -  {c*88.37}")
-        elif a=="USD" and b=="EURO":
+        elif a=="USD" and b=="EURO":#USD to EURO
             print("1 USD = 0.96 EURO")
             print("\n \n ")
             print(f"The amount which is converted is equal to : - {c*0.96}")
-        elif a=="EURO" and b=="USD":
+        elif a=="EURO" and b=="USD":#EURO to USD
             print("1 EURO = 1.04")
             print("\n \n")
             print(f"The amount which is converted is equal to : -  {c*1.04}")
