@@ -7,4 +7,4 @@
 <br><p>• Enter the amount </p>
 <br><br>
 <p>You can continue to use it by pressing 1 after and exit by 2</p><br>
-By  ~SurajRaturi
+By  <b><u>~SurajRaturi</u></b>
