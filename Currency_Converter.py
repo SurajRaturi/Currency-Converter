@@ -47,16 +47,18 @@ def condition():
             print(f"The amount which is converted is equal to : -  {c*1.04}")
         print("\n \n")
         d=int(input("Press 1 for converting again . \nPress 2 for exit...."))
-        if d==1:
+        if d==1:#for continue conversion
             print()
             continue
-        elif d==2:
+        elif d==2:#for exist
             print()
             break
         else:
             print("Invalid input! Please enter correct .")
     
 condition()
+
+#End of the programme
 
     
 
