@@ -6,5 +6,5 @@
 <br><p>• Enter the standard code for currency in which you want to convert like USD</p>
 <br><p>• Enter the amount </p>
 <br><br>
-<p>You can continue to use it by pressing 1 after and exit by 2</p>
+<p>You can continue to use it by pressing 1 after and exit by 2</p><br>
 By  ~SurajRaturi
